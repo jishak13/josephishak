@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jishak13/josephishak/issues"
   },
-  "homepage": "https://github.com/jishak13/josephishak#readme"
+  "homepage": "https://github.com/jishak13/josephishak#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
